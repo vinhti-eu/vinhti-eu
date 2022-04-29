@@ -27,11 +27,11 @@ Outside of development, my passions include climbing, chess and music.
 I am currently working on Wgelo, a fullstack elo tracking project
 
 <h3>
-<table>
+  <a href= https://github.com/vinhti-eu/wgelo>
 
+<table>
   <tr>
     <td>
-<a href= https://github.com/vinhti-eu/wgelo>
  <img src="https://user-images.githubusercontent.com/48870231/165990310-d609368e-a189-4e00-a481-0dbe1675d595.png" alt="Wgelo"> Wgelo
   </td>
   <tr>
