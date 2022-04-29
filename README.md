@@ -26,9 +26,24 @@ Outside of Development, my passions include Climbing, Chess and Music.
 
 I am currently working on Wgelo, a fullstack Elo tracking project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinhti-eu&repo=wgelo)](https://github.com/vinhti-eu/wgelo)
+<h3>
+<table>
 
+  <tr>
+    <td>
+<a href= https://github.com/vinhti-eu/wgelo>
+ <img src="https://user-images.githubusercontent.com/48870231/165990310-d609368e-a189-4e00-a481-0dbe1675d595.png" alt="Wgelo"> Wgelo
+  </td>
+  <tr>
+  </table>
+    </a>
+  </h3>
+  
 <h3>Tech stack</h3>
+
+
+
+<br/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
