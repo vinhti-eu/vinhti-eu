@@ -22,9 +22,9 @@ Affinity for:
 
 
 I like to get lost in documentation, as well as technical literature.
-Outside of Development, my passions include Climbing, Chess and Music.
+Outside of Development, my passions include climbing, chess and music.
 
-I am currently working on Wgelo, a fullstack Elo tracking project
+I am currently working on Wgelo, a fullstack elo tracking project
 
 <h3>
 <table>
