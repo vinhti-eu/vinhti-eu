@@ -24,7 +24,7 @@ Affinity for:
 I like to get lost in documentation, as well as technical literature.
 Outside of Development, my passions include Climbing, Chess and Music.
 
-I am currently working on an Elo recording project:
+I am currently working on a fullstack Elo tracking project:
 <a href="https://github.com/vinhti-eu/wgelo">Wgelo</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinhti-eu&repo=wgelo)](https://github.com/vinhti-eu/wgelo)
