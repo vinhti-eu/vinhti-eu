@@ -6,7 +6,7 @@ Hey There!
 </h2>
 
 I am a B.Sc. Computer Science graduate from LMU Munich and  an aspiring Fullstack Developer 
-Based in Berlin
+based in Berlin
 
 
 
