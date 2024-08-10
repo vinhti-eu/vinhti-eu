@@ -24,7 +24,7 @@ Affinity for:
 I like to get lost in documentation, as well as technical literature.
 Outside of development, my passions include climbing, chess and music.
 
-I am currently working on Wgelo, a fullstack elo tracking project
+I am currently working on Dodgeball Dystopa in my free time, a SNES inspired dodgeball game.
 
 <h3>
   <a href= https://github.com/vinhti-eu/wgelo>
